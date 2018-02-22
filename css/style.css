@@ -19,8 +19,8 @@ body {
 	line-height: 1.7;
 	color: #777;
 	padding: 30px;
-/*	background: url(../img/background.jpg);
-*/	background-size: cover;
+	background: url(../img/background.jpg);
+	background-size: cover;
 	background-repeat: no-repeat;
 	opacity: 2;
 }
@@ -33,6 +33,13 @@ body {
   clear: both;
   text-align: center;
 }*/
+.p {
+	font-family: "Lato", sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
 
 .h3 { 
 	-webkit-margin-before: 0.83em;
@@ -360,6 +367,7 @@ a:link {
   min-height: 70rem; 
   padding-top: 3rem;
   padding-bottom: 3rem;
+  padding-left: 6.5rem;
   background-color: #f7f7f7;
 }
 .card {
