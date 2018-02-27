@@ -19,9 +19,9 @@ body {
 	line-height: 1.7;
 	color: #777;
 	padding: 30px;
-	background: url(../img/background.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: url(../img/background.jpg), no-repeat, fixed;
+/*	background-size: cover;*/
+/*	background-repeat: no-repeat, fixed;*/
 	opacity: 2;
 }
 /*.container {
@@ -476,7 +476,7 @@ body {
 }
 
 .card3 {
-	width: initial;
+/*	width: initial;*/
 	padding-left: 21rem;
 	padding-right: 15rem;
 }
