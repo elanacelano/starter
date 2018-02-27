@@ -479,8 +479,14 @@ body {
 .card3 {
 /*	width: initial;*/
 	padding-left: 10rem;
+/*	padding-right: 15rem;*/
+}
+.card2 {
+	width: initial;
+	padding-left: 10rem;
 	padding-right: 15rem;
 }
+
 /*.card4 {
 	padding:5rem;
 }*/
