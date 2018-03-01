@@ -368,7 +368,9 @@ a:link {
   min-height: 70rem; 
   padding-top: 3rem;
   padding-bottom: 3rem;
-  padding-left: 6.5rem;
+
+/*  padding-bottom: 3rem;
+  padding-left: 6.5rem;*/
   background-color: #f7f7f7;
 }
 /*.card {
@@ -394,7 +396,7 @@ a:link {
 }
 .card {
   float: left;
-  width: 33.333%;
+/*  width: 33.333%;*/
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
@@ -461,8 +463,8 @@ body {
 .card {
 /*	display: inline-block;*/
 /*  float: left;*/
-  width: 25%;
-/*  width: 33.333%;*/
+/*  width: 25%;*/
+  width: 33.333%;
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
