@@ -371,13 +371,13 @@ a:link {
   padding-left: 6.5rem;
   background-color: #f7f7f7;
 }
-.card {
+/*.card {
   float: left;
   width: 33.333%;
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
-}
+}*/
 
 .card > img {
   margin-bottom: .75rem;
