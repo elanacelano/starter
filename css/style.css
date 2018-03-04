@@ -526,6 +526,29 @@ h5 {
     z-index: 1020;
     letter-spacing: 1px;
 }
+/*-------------------WEB DESIGN------------------------------------*/
+element.style {
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}
+.bg-light {
+    background-color: #f8f9fa!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+/*.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+/*-------------------------------------------------------*/
 
 .icons {
 	display: flex;
