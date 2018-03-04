@@ -532,7 +532,7 @@ h5 {
 .icons {
 	display: flex;
   	flex-wrap: wrap;
-	color: gray;
+	padding: 1rem;
   /* Supports Grid */
  	display: grid;
  	/*width: 500%;*/
