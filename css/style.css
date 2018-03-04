@@ -21,25 +21,6 @@ body {
 	padding: 30px;
 	background: url(../img/background.jpg), no-repeat, fixed;
 	background-attachment: fixed;
-/*	background-size: cover;*/
-/*	background-repeat: no-repeat, fixed;*/
-	opacity: 2;
-}
-/*.container {
-  background-color: #336699;	
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  margin-top: 50%;
-  clear: both;
-  text-align: center;
-}*/
-.p {
-	font-family: "Lato", sans-serif;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
 }
 
 .h3 { 
@@ -386,6 +367,9 @@ a:link {
 /*   grid-auto-rows: minmax(150px, auto); */
   	grid-gap: 1rem;
 }
+/*image {
+	padding: 5px;
+}*/
 
 .card > img {
   margin-bottom: .75rem;
@@ -527,6 +511,13 @@ h4 {
 	color: white;
 	letter-spacing: 19.4px;
 }	
+
+h5 {
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
 
 .container-home {
 	position: -webkit-sticky;
