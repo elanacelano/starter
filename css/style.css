@@ -541,6 +541,12 @@ element.style {
 *, ::after, ::before {
     box-sizing: border-box;
 }
+
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
 /*.container {
     width: 100%;
     padding-right: 15px;
@@ -551,6 +557,7 @@ element.style {
 /*-------------------------------------------------------*/
 
 .icons {
+	text-align: center;
 	display: flex;
   	flex-wrap: wrap;
 	padding: 1rem;
