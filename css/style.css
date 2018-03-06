@@ -527,7 +527,20 @@ h5 {
     letter-spacing: 1px;
 }
 /*-------------------WEB DESIGN------------------------------------*/
-element.style {
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+/*  background-color: #2196F3;*/
+  /*padding: 10px;*/
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+/*  border: 1px solid rgba(0, 0, 0, 0.8);
+*/  padding: 120px;
+/*  font-size: 30px;*/
+  text-align: left;
+}
+/*element.style {
 }
 .pb-5, .py-5 {
     padding-bottom: 3rem!important;
@@ -546,7 +559,7 @@ element.style {
     color: #fff;
     background-color: #6c757d;
     border-color: #6c757d;
-}
+}*/
 /*.container {
     width: 100%;
     padding-right: 15px;
